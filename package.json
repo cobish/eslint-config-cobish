@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-cobish",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint *.js"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
