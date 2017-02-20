@@ -1,14 +1,32 @@
 {
   "name": "eslint-config-cobish",
   "version": "0.0.1",
-  "main": "index.js",
+  "title": "An eslint config.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cobish/eslint-config-cobish.git"
+  },
+  "author": {
+    "name": "cobish",
+    "email": "cobish110@gmail.com",
+    "url": "http://cobish.github.io",
+    "github": "https://github.com/cobish"
+  },
+  "license": {
+    "name": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  },
+  "bugs": {
+    "url": "https://github.com/cobish/eslint-config-cobish/issues"
+  },
+  "homepage": "https://github.com/cobish/eslint-config-cobish",
   "scripts": {
     "lint": "./node_modules/.bin/eslint *.js"
   },
   "keywords": [
-    "eslint"
+    "eslint",
+    "eslintconfig"
   ],
-  "license": "MIT",
   "peerDependencies": {
     "eslint": ">= 3"
   }

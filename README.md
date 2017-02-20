@@ -1,21 +1,19 @@
 # eslint-config-cobish
 
-## Test
+> Just a eslint config.
 
-进入**根目录**下，命令运行：
-
-``` bash
-$ npm link
-```
-
-再进入 **test** 目录，命令运行：
+## Install
 
 ``` bash
-$ npm link eslint-config-cobish
+$ npm install eslint-config-cobish --save-dev
 ```
 
-接下来即可运行 **test** 目录里的文件进行测试，例如：
+## Run
 
 ``` bash
-$ ../../node_modules/.btn/eslint eqeqeq.js
+$ ./node_modules/.btn/eslint xxx.js
 ```
+
+## License
+
+This plugin is available under [the MIT license](http://mths.be/mit).
