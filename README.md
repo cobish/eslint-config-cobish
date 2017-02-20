@@ -1,6 +1,6 @@
 # eslint-config-cobish
 
-> Just a eslint config.
+> Just an eslint config.
 
 ## Install
 
